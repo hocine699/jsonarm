@@ -1,0 +1,122 @@
+[
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/DAE94E282DD26BD3",
+    "operationId": "DAE94E282DD26BD3",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Running",
+      "timestamp": "2023-07-03T08:10:37.1186684Z",
+      "duration": "PT1.9329195S",
+      "trackingId": "99be99a3-2a74-44c4-b543-0f82deec3717",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Compute/virtualMachines/VM1TD",
+        "resourceType": "Microsoft.Compute/virtualMachines",
+        "resourceName": "VM1TD"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/420CBD62123C7007",
+    "operationId": "420CBD62123C7007",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:36.2097445Z",
+      "duration": "PT1.0239956S",
+      "trackingId": "12fd9be9-d7f3-473f-9bc0-534b341821e7",
+      "statusCode": "Created",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/networkInterfaces/VM1TDNetInt",
+        "resourceType": "Microsoft.Network/networkInterfaces",
+        "resourceName": "VM1TDNetInt"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/F83817D802C9682E",
+    "operationId": "F83817D802C9682E",
+    "properties": {
+      "provisioningOperation": "Read",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:35.2513969Z",
+      "duration": "PT0.065648S",
+      "trackingId": "947fd291-d76e-4bf8-bd2d-ca2a2bacbeeb",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/publicIPAddresses/VM1TDPublicIP",
+        "resourceType": "Microsoft.Network/publicIPAddresses",
+        "resourceName": "VM1TDPublicIP",
+        "apiVersion": "2021-05-01"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/22155E1FFEB23E4F",
+    "operationId": "22155E1FFEB23E4F",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:34.980315Z",
+      "duration": "PT4.5865503S",
+      "trackingId": "6e850066-cf87-4f87-8041-460ca21fe84a",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/virtualNetworks/vNet1/subnets/SubnetVM1",
+        "resourceType": "Microsoft.Network/virtualNetworks/subnets",
+        "resourceName": "vNet1/SubnetVM1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/4A6B98C5E7298320",
+    "operationId": "4A6B98C5E7298320",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:35.121819Z",
+      "duration": "PT4.7280543S",
+      "trackingId": "7bd81944-488a-4ad6-928a-9fb87ac9e214",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/publicIPAddresses/VM1TDPublicIP",
+        "resourceType": "Microsoft.Network/publicIPAddresses",
+        "resourceName": "VM1TDPublicIP"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/16D6266B98913EEC",
+    "operationId": "16D6266B98913EEC",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:32.8046027Z",
+      "duration": "PT2.410838S",
+      "trackingId": "c9d6827b-254a-469b-ab29-82e8064bdad7",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/networkSecurityGroups/SecGroupNet1",
+        "resourceType": "Microsoft.Network/networkSecurityGroups",
+        "resourceName": "SecGroupNet1"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Resources/deployments/Microsoft.Template-20230703101024/operations/D43F6333215F569B",
+    "operationId": "D43F6333215F569B",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2023-07-03T08:10:33.7306984Z",
+      "duration": "PT3.3369337S",
+      "trackingId": "c0d9eb17-ac4d-4070-93ea-06a2d72ebbe6",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/393e3de3-0900-4b72-8f1b-fb3b1d6b97f1/resourceGroups/Hocine-RG/providers/Microsoft.Network/virtualNetworks/vNet1",
+        "resourceType": "Microsoft.Network/virtualNetworks",
+        "resourceName": "vNet1"
+      }
+    }
+  }
+]
